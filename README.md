@@ -1,2 +1,2 @@
 # third
-thisis my third project
+this is my third project developed by me
